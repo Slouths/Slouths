@@ -18,7 +18,7 @@ Im currently a student at the Florida International University persuing a bachel
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 I’m currently working on [Password Manager](https://github.com/Slouths/passManager)  
   
@@ -29,7 +29,7 @@ Im currently a student at the Florida International University persuing a bachel
 - ⚡ Fun fact: I love to play paintball  
 
 
-</td><td valign="top" width="50%">
+
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
