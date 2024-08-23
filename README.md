@@ -26,7 +26,7 @@ Im currently a student at the Florida International University persuing a bachel
 - *🌱 I'm currently enrolled in a  IBM Software Engineering and DevOps program*  
   
 
-- ⚡ Fun fact: I love to play paintball  
+- ⚡ Fun fact: I love Formula One 
 
 
 
