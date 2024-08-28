@@ -11,7 +11,7 @@
 <div align="center">
 
 -------
-Im currently a student at the Florida International University persuing a bachelors in computer science. I started off with a degree in marketing and then realized thats not what i wanted to do and found my passion again with computers which sparked my interest in the career path. Connect with me on linkedIn with the button above!</div>  
+Im currently a student at the Florida International University pursuing a bachelors in computer science. I started off with a degree in marketing and then realized thats not what i wanted to do and found my passion again with computers which sparked my interest in the career path. Connect with me on linkedIn with the button above!</div>  
   
 
 <br/>  
