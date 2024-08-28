@@ -20,7 +20,7 @@ Im currently a student at the Florida International University pursuing a bachel
 ## Rapidfire  
 
 
-- 🔭 I’m currently working on [Password Manager](https://github.com/Slouths/passManager)  
+- 🔭 I’m currently working on [IBM Capstone Project](https://github.com/Slouths/devops-capstone-project)  
   
 
 - *🌱 I'm currently enrolled in a  IBM Software Engineering and DevOps program*  
