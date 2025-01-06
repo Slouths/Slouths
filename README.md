@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nicholasnunez6/" target="_blank">
+<a href="https://www.linkedin.com/in/nicholasnunez6/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -11,7 +11,7 @@
 <div align="center">
 
 -------
-Im currently a student at the Florida International University pursuing a bachelors in computer science. I started off with a degree in marketing and then realized thats not what i wanted to do and found my passion again with computers which sparked my interest in the career path. Connect with me on linkedIn with the button above!</div>  
+Hi! I'm Nicholas Nunez, a Computer Science student at FIU with a passion for **DevOps, software engineering, and cloud infrastructure**. I'm seeking a **DevOps or software engineering role** to build scalable, impactful systems. Connect with me on LinkedIn using the button above!</div>  
   
 
 <br/>  
